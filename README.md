@@ -10,10 +10,10 @@
   <img src="docs/cash.png" alt="Cash page" width="860" />
 </p>
 <p align="center">
-  <img src="docs/cash.png" alt="Expenses page" width="860" />
+  <img src="docs/expenses.png" alt="Expenses page" width="860" />
 </p>
 <p align="center">
-  <img src="docs/cash.png" alt="Payroll page" width="860" />
+  <img src="docs/payroll.png" alt="Payroll page" width="860" />
 </p>
 
 ---
