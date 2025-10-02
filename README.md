@@ -3,6 +3,19 @@
 **What:** P&L, cash flow, payroll, and cash runway for an SME using bank/credit-card/payroll data.  
 **Stack:** PostgreSQL (staging → analytics views) + Power BI (model, DAX, visuals).
 
+<p align="center">
+  <img src="docs/overview.png" alt="Overview" width="860" />
+</p>
+<p align="center">
+  <img src="docs/cash.png" alt="Cash page" width="860" />
+</p>
+<p align="center">
+  <img src="docs/cash.png" alt="Expenses page" width="860" />
+</p>
+<p align="center">
+  <img src="docs/cash.png" alt="Payroll page" width="860" />
+</p>
+
 ---
 
 ## Repo structure
@@ -101,8 +114,6 @@ DimMonth = DISTINCT ( 'analytics dim_calendar'[month_start] )
 _All pages respect the main Date slicer via the Date↔Month bridge._
 
 ---
-
-## Data model
 
 ## Data model
 
